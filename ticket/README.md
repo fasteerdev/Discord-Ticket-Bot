@@ -19,7 +19,7 @@ Esse simples bot serve para gerenciar tickets no Discord, permitindo que os usu�
 ### Passo 1: Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/bot-ticket-discord.git
+git clone https://github.com/fasteerdev/Discord-Ticket-Bot.git
 cd bot-ticket-discord
 
 Passo 2: Instale as dependências
